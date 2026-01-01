@@ -1,0 +1,8 @@
+13:56:01.618 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test started
+13:56:01.819 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+13:56:02.301 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully
+13:56:04.622 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - all details filled successfully
+13:56:04.682 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - message is successfully validated
+13:56:04.682 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - execution completed
+13:56:07.296 [TestNG-tests-1] INFO  testCases.TC_002_AccountLoginTest - starting login test
+13:56:08.941 [TestNG-tests-1] INFO  testCases.TC_002_AccountLoginTest - test cases completed

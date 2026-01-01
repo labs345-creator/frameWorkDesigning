@@ -1,0 +1,12 @@
+21:25:09.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+21:25:09.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+21:25:09.966 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully
+21:25:11.715 [main] INFO  testCases.TC_001_AccountRegistrationTest - all details filled successfully
+21:25:11.798 [main] INFO  testCases.TC_001_AccountRegistrationTest - message is successfully validated
+21:25:11.798 [main] INFO  testCases.TC_001_AccountRegistrationTest - execution completed
+21:25:14.829 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+21:25:14.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+21:25:15.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully
+21:25:17.156 [main] INFO  testCases.TC_001_AccountRegistrationTest - all details filled successfully
+21:25:17.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - message is successfully validated
+21:25:17.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - execution completed

@@ -1,0 +1,4 @@
+21:22:02.219 [TestNG-tests-1] INFO  testCases.TC_002_AccountLoginTest - starting login test
+21:22:02.434 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - test started
+21:22:02.634 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+21:22:21.157 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully

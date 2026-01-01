@@ -1,0 +1,3 @@
+16:00:20.964 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+16:00:21.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+16:00:21.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully

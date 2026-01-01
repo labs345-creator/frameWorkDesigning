@@ -1,0 +1,6 @@
+20:33:39.111 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+20:33:39.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on my account successfully
+20:33:39.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register successfully
+20:33:41.507 [main] INFO  testCases.TC_001_AccountRegistrationTest - all details filled successfully
+20:33:41.547 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed .. 
+20:33:41.547 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Debug logs .. 
